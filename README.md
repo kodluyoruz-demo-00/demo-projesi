@@ -1,2 +1,2 @@
 # demo-projesi
-Projeniz hakkında
+Projeniz hakkında güncel bilgiler
